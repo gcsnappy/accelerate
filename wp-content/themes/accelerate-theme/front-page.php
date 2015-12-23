@@ -12,6 +12,9 @@
  * @since Accelerate Marketing 1.0
  */
 
+
+
+
 get_header(); ?>
 
 <section class="home-page">

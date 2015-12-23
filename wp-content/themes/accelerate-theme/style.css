@@ -501,6 +501,11 @@ h1 {
 
 #masthead nav ul {
 	list-style-type:none;
+	
+}
+
+#masthead nav ul li a {
+	display: inline;
 }
 
 a:hover {
@@ -1202,8 +1207,13 @@ section .navigation {
 }
 
 .social-media-navigation {
+	display: inline;
 	float:right;
 	width:20%;
+}
+
+.social-media-navigation ul li {
+	display: inline;
 }
 
 .button {
